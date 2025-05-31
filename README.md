@@ -1,1 +1,1 @@
-Algortmos de Paginação
+Algoritmos de Paginação
